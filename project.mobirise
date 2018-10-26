@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politiek",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -229,7 +229,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Nederland is een democratisch land, wij kunnen dus zelf bepalen wie het voor het zeggen hebben.&nbsp;</p><p>Wij kunnen ook door middel van het nieuws controleren wat deze mensen doen en ze terechtwijzen als ze dit verdienen.</p><p>Laat jouw omstandigheden je niet opleggen door mensen die jou niet vertegenwoordigen. Maak ze duidelijk waar jij voor staat en breng je stem uit wanneer je kan. Dit zorgt ervoor dat je meer goed nieuws zal zien!</p><div><br></div><div><b><br></b></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Nederland is een democratisch land, wij kunnen dus zelf bepalen wie het voor het zeggen hebben. Deze mensen doen het ook niet altijd goed. Wij kunnen ze door het nieuws te volgen controleren. Als ze hun werk slecht doen, kunnen wij ze onder druk zetten. Als wij dit niet zouden doen, kunnen zij misschien wel doen en laten wat ze willen. Dit mag niet gebeuren, wanrt zij bepalen hoe ons land er uit komt te zien.</p><p>Laat je niet vertellen wat je moet doen door mensen die jou niet vertegenwoordigen. Maak duidelijk waar jij voor staat en breng je stem uit wanneer je kan. Dit zorgt ervoor dat de wereld een mooiere plek wordt voor jou. Je zal dus meer goed nieuws zien!</p><div><b><br></b></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r7Ax9cuhI5",
           "_protectedParams": [],
           "_global": false,
